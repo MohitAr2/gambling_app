@@ -7,7 +7,7 @@
     "result":"loss",
     "stake_before":1000,
     "stake_after":950.0,
-    "timestamp":"2026-04-24T11:00:39.518429"
+    "timestamp":1777028439518
   },
   {
     "game_id":"d27d2cb1-2845-40a7-87a3-42c613156506",
@@ -17,7 +17,7 @@
     "result":"win",
     "stake_before":950,
     "stake_after":1050.0,
-    "timestamp":"2026-04-24T11:00:39.555625"
+    "timestamp":1777028439555
   },
   {
     "game_id":"3ecec981-5ca0-400c-a853-47e73fb2bfe5",
@@ -27,7 +27,7 @@
     "result":"win",
     "stake_before":1050,
     "stake_after":1150.0,
-    "timestamp":"2026-04-24T11:00:39.595745"
+    "timestamp":1777028439595
   },
   {
     "game_id":"2d2f549a-f8f0-4893-8793-ec89133b7064",
@@ -37,7 +37,7 @@
     "result":"loss",
     "stake_before":1150,
     "stake_after":1100.0,
-    "timestamp":"2026-04-24T11:00:39.635389"
+    "timestamp":1777028439635
   },
   {
     "game_id":"3004e760-f0ec-4c79-a1d2-100a4f921df1",
@@ -47,6 +47,56 @@
     "result":"win",
     "stake_before":1100,
     "stake_after":1200.0,
-    "timestamp":"2026-04-24T11:00:39.677972"
+    "timestamp":1777028439677
+  },
+  {
+    "game_id":"9d6ae734-c149-42a2-83e5-284c9a642508",
+    "session_id":"7bbb410c-9780-4d27-af95-26c925c1f92a",
+    "bet_id":"cf1c1e64-a27a-4367-b29e-8546623293d4",
+    "amount":50,
+    "result":"loss",
+    "stake_before":1000,
+    "stake_after":950.0,
+    "timestamp":"2026-04-24T11:18:03.811584"
+  },
+  {
+    "game_id":"2fc1853f-c091-4e91-9405-a6af974644c4",
+    "session_id":"7bbb410c-9780-4d27-af95-26c925c1f92a",
+    "bet_id":"02e39a06-b58d-418f-a303-934a575b83b6",
+    "amount":50,
+    "result":"loss",
+    "stake_before":950,
+    "stake_after":900.0,
+    "timestamp":"2026-04-24T11:18:03.837497"
+  },
+  {
+    "game_id":"c97f0109-dba4-447c-b61e-77a6f4c282b6",
+    "session_id":"7bbb410c-9780-4d27-af95-26c925c1f92a",
+    "bet_id":"3c009450-f0a3-4c6b-87ef-ecc583a62370",
+    "amount":50,
+    "result":"win",
+    "stake_before":900,
+    "stake_after":1000.0,
+    "timestamp":"2026-04-24T11:18:03.863821"
+  },
+  {
+    "game_id":"0292b12d-8418-4ba4-ba04-0810352feb5d",
+    "session_id":"7bbb410c-9780-4d27-af95-26c925c1f92a",
+    "bet_id":"3716035e-3096-41d4-b20c-3236ca6be350",
+    "amount":50,
+    "result":"win",
+    "stake_before":1000,
+    "stake_after":1100.0,
+    "timestamp":"2026-04-24T11:18:03.893060"
+  },
+  {
+    "game_id":"ad2dce19-9e3d-4c7f-9448-6e8706df2615",
+    "session_id":"7bbb410c-9780-4d27-af95-26c925c1f92a",
+    "bet_id":"cc0cbdcc-fe04-40e2-9b50-51365e9ca5aa",
+    "amount":50,
+    "result":"loss",
+    "stake_before":1100,
+    "stake_after":1050.0,
+    "timestamp":"2026-04-24T11:18:03.922488"
   }
 ]
