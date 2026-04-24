@@ -1,23 +1,24 @@
 from service.GamblerProfileService import GamblerProfileService
+from service.StakeManagementService import StakeManagementService
 
-svc = GamblerProfileService()
-
-gid = svc.create_gambler( # pseudo one 
+gambler_svc = GamblerProfileService()
+stake_svc = StakeManagementService()
+gid = gambler_svc.create_gambler(
     "Mo Jo",
-    "mojo@mail.com",
-    "99999999999",
-    10000,
-    15000,
-    2000
+    "mo@email.com",
+    "9999999999",
+    1000,
+    2000,
+    200
 )
-
-# sample records for a game
-svc.record_bet(gid, 100, "win", 200)
-svc.record_bet(gid, 50, "loss", 0)
-
-stats = svc.get_statistics(gid)
+stake_svc.initialize_stake(gid, 1000)
+stake_svc.process_bet(gid, 200, "win")
+stake_svc.process_bet(gid, 100, "loss")
+stats = gambler_svc.get_statistics(gid)
 print(vars(stats))
 
-print("Valid:", svc.validate_gambler(gid))
+print("Balance:", stake_svc.get_current_balance(gid))
 
-svc.reset_gambler(gid)
+print("Valid:", stake_svc.validate_boundaries(gid))
+
+print("Monitor:", stake_svc.monitor(gid))
