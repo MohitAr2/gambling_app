@@ -1,0 +1,20 @@
+[
+  {
+    "bet_id":"7dddd9d1-fd7c-4aee-ac22-264436b08229",
+    "gambler_id":"fbaff8e7-e4b4-4904-98ea-31e337f4db97",
+    "bet_amount":100,
+    "result":"win",
+    "payout":200,
+    "balance_after":10200,
+    "timestamp":1777025099757
+  },
+  {
+    "bet_id":"4b010986-bc77-411b-a273-d85845041151",
+    "gambler_id":"fbaff8e7-e4b4-4904-98ea-31e337f4db97",
+    "bet_amount":50,
+    "result":"loss",
+    "payout":0,
+    "balance_after":10150,
+    "timestamp":"2026-04-24T10:04:59.784262"
+  }
+]

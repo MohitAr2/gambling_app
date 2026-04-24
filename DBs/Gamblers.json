@@ -1,0 +1,15 @@
+[
+  {
+    "gambler_id":"fbaff8e7-e4b4-4904-98ea-31e337f4db97",
+    "name":"Mo Jo",
+    "email":"mojo@mail.com",
+    "phone":99999999999,
+    "initial_stake":10000,
+    "current_stake":10000,
+    "win_threshold":15000,
+    "loss_threshold":2000,
+    "account_status":"CREATED",
+    "created_at":1777025099733,
+    "updated_at":1777025099733
+  }
+]
