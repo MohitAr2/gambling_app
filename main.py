@@ -1,24 +1,26 @@
 from service.GamblerProfileService import GamblerProfileService
 from service.StakeManagementService import StakeManagementService
+from service.BettingService import BettingService
+from strategy.MartingaleStrategy import MartingaleStrategy
 
-gambler_svc = GamblerProfileService()
-stake_svc = StakeManagementService()
-gid = gambler_svc.create_gambler(
-    "Mo Jo",
-    "mo@email.com",
-    "9999999999",
-    1000,
-    2000,
-    200
+gambler = GamblerProfileService()
+stake = StakeManagementService()
+betting = BettingService()
+
+gid = gambler.create_gambler(
+    "Mo Jo", "mo@email.com", "999",
+    1000, 2000, 200
 )
-stake_svc.initialize_stake(gid, 1000)
-stake_svc.process_bet(gid, 200, "win")
-stake_svc.process_bet(gid, 100, "loss")
-stats = gambler_svc.get_statistics(gid)
-print(vars(stats))
 
-print("Balance:", stake_svc.get_current_balance(gid))
+stake.initialize_stake(gid, 1000)
 
-print("Valid:", stake_svc.validate_boundaries(gid))
+# single bet
+bet = betting.place_bet(gid, 100)
+print(bet.to_dict())
 
-print("Monitor:", stake_svc.monitor(gid))
+# strategy betting
+strategy = MartingaleStrategy(50)
+session = betting.place_with_strategy(gid, strategy, 5)
+
+for b in session:
+    print(b.to_dict())
