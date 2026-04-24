@@ -26,6 +26,10 @@ class BettingService:
             "FIXED",
             current
         )
+        # result_obj = self.validator.validate_bet_amount(amount, result_obj.current_stake)
+
+        # if not result_obj.is_valid:
+        #     raise Exception(resul_objt.errors)
 
         if result_obj.result == "win":
             new_balance = self.stake_service.process_bet(
