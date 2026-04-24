@@ -1,0 +1,21 @@
+[
+  {
+    "session_id":"6b320299-a033-4732-aea1-e3b4f07b3818",
+    "gambler_id":"6599d26c-2a12-4dbc-bd0f-25971ed41931",
+    "status":"ACTIVE",
+    "params":{
+      "win_limit":2000,
+      "loss_limit":200,
+      "min_bet":50,
+      "max_bet":200,
+      "max_games":10,
+      "max_duration":3600,
+      "default_probability":0.5
+    },
+    "start_time":"2026-04-24T11:00:39.462935",
+    "end_time":null,
+    "games_played":0,
+    "pause_time":0,
+    "end_reason":null
+  }
+]

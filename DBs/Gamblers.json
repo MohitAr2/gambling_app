@@ -29,13 +29,65 @@
     "gambler_id":"6335df3f-8d4a-4e80-82ac-ab77f15e003a",
     "name":"Mo Jo",
     "email":"mo@email.com",
-    "phone":"999",
+    "phone":999,
     "initial_stake":1000,
     "current_stake":1000,
     "win_threshold":2000,
     "loss_threshold":200,
     "account_status":"CREATED",
-    "created_at":"2026-04-24T10:48:06.777654",
-    "updated_at":"2026-04-24T10:48:06.777654"
+    "created_at":1777027686777,
+    "updated_at":1777027686777
+  },
+  {
+    "gambler_id":"5848c09e-4c1e-4da8-b35c-a0a5a00a4913",
+    "name":"Mo",
+    "email":"m@mail.com",
+    "phone":123,
+    "initial_stake":1000,
+    "current_stake":1000,
+    "win_threshold":2000,
+    "loss_threshold":200,
+    "account_status":"CREATED",
+    "created_at":1777028124016,
+    "updated_at":1777028124016
+  },
+  {
+    "gambler_id":"31122a04-7918-4470-ac0d-a752782984cd",
+    "name":"Mo",
+    "email":"m@mail.com",
+    "phone":123,
+    "initial_stake":1000,
+    "current_stake":1000,
+    "win_threshold":2000,
+    "loss_threshold":200,
+    "account_status":"CREATED",
+    "created_at":1777028198328,
+    "updated_at":1777028198328
+  },
+  {
+    "gambler_id":"e870ee44-3fc9-47f5-aae7-08ee3624fbf2",
+    "name":"Mo",
+    "email":"m@mail.com",
+    "phone":123,
+    "initial_stake":1000,
+    "current_stake":1000,
+    "win_threshold":2000,
+    "loss_threshold":200,
+    "account_status":"CREATED",
+    "created_at":1777028206288,
+    "updated_at":1777028206288
+  },
+  {
+    "gambler_id":"6599d26c-2a12-4dbc-bd0f-25971ed41931",
+    "name":"Mo",
+    "email":"m@mail.com",
+    "phone":"123",
+    "initial_stake":1000,
+    "current_stake":1000,
+    "win_threshold":2000,
+    "loss_threshold":200,
+    "account_status":"CREATED",
+    "created_at":"2026-04-24T11:00:39.429994",
+    "updated_at":"2026-04-24T11:00:39.429994"
   }
 ]

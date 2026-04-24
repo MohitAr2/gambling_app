@@ -3,8 +3,8 @@
     "transaction_id":"cd0e9dcb-ab0a-42a1-9de7-ceacfc64050a",
     "gambler_id":"a017a265-5cef-431a-86be-956631923b91",
     "type":"INITIAL_STAKE",
-    "amount":1000,
-    "balance_after":1000,
+    "amount":1000.0,
+    "balance_after":1000.0,
     "bet_id":null,
     "timestamp":1777026814099
   },
@@ -12,8 +12,8 @@
     "transaction_id":"35a555cd-a7a2-4d43-824d-a4769fe2eb88",
     "gambler_id":"a017a265-5cef-431a-86be-956631923b91",
     "type":"BET_WIN",
-    "amount":200,
-    "balance_after":1200,
+    "amount":200.0,
+    "balance_after":1200.0,
     "bet_id":null,
     "timestamp":1777026814110
   },
@@ -21,8 +21,8 @@
     "transaction_id":"37d5066f-502a-49d7-972b-32da9e19061e",
     "gambler_id":"a017a265-5cef-431a-86be-956631923b91",
     "type":"BET_LOSS",
-    "amount":100,
-    "balance_after":1100,
+    "amount":100.0,
+    "balance_after":1100.0,
     "bet_id":null,
     "timestamp":1777026814123
   },
@@ -30,8 +30,8 @@
     "transaction_id":"3c06710c-71c8-4f65-89d6-792ccf22ff1a",
     "gambler_id":"7871b41c-f243-4a01-b44f-f1adc4f7ea8d",
     "type":"INITIAL_STAKE",
-    "amount":1000,
-    "balance_after":1000,
+    "amount":1000.0,
+    "balance_after":1000.0,
     "bet_id":null,
     "timestamp":1777027023966
   },
@@ -39,8 +39,8 @@
     "transaction_id":"e33b7604-f11a-44a2-9d67-a5e6dfa39a80",
     "gambler_id":"7871b41c-f243-4a01-b44f-f1adc4f7ea8d",
     "type":"BET_WIN",
-    "amount":200,
-    "balance_after":1200,
+    "amount":200.0,
+    "balance_after":1200.0,
     "bet_id":null,
     "timestamp":1777027023984
   },
@@ -48,8 +48,8 @@
     "transaction_id":"65e2f38f-4bd6-4d1a-86cf-feb99fb0b64c",
     "gambler_id":"7871b41c-f243-4a01-b44f-f1adc4f7ea8d",
     "type":"BET_LOSS",
-    "amount":100,
-    "balance_after":1100,
+    "amount":100.0,
+    "balance_after":1100.0,
     "bet_id":null,
     "timestamp":1777027023994
   },
@@ -57,8 +57,8 @@
     "transaction_id":"7cb6436b-d8cb-400a-b877-5c8e52f2ffc0",
     "gambler_id":"152dd430-3ca9-429b-91d0-c245f4de368b",
     "type":"INITIAL_STAKE",
-    "amount":1000,
-    "balance_after":1000,
+    "amount":1000.0,
+    "balance_after":1000.0,
     "bet_id":null,
     "timestamp":1777027032326
   },
@@ -66,8 +66,8 @@
     "transaction_id":"ea91da2e-214c-4c13-b865-f05ef4c3bab2",
     "gambler_id":"152dd430-3ca9-429b-91d0-c245f4de368b",
     "type":"BET_WIN",
-    "amount":200,
-    "balance_after":1200,
+    "amount":200.0,
+    "balance_after":1200.0,
     "bet_id":null,
     "timestamp":1777027032340
   },
@@ -75,8 +75,8 @@
     "transaction_id":"ad9570f5-449d-4414-8b53-8424873bf92d",
     "gambler_id":"152dd430-3ca9-429b-91d0-c245f4de368b",
     "type":"BET_LOSS",
-    "amount":100,
-    "balance_after":1100,
+    "amount":100.0,
+    "balance_after":1100.0,
     "bet_id":null,
     "timestamp":1777027032349
   },
@@ -84,8 +84,8 @@
     "transaction_id":"98ef4a62-dcfc-4322-84df-c94875ebe1aa",
     "gambler_id":"6335df3f-8d4a-4e80-82ac-ab77f15e003a",
     "type":"INITIAL_STAKE",
-    "amount":1000,
-    "balance_after":1000,
+    "amount":1000.0,
+    "balance_after":1000.0,
     "bet_id":null,
     "timestamp":1777027686796
   },
@@ -93,8 +93,8 @@
     "transaction_id":"24897eec-9aae-433c-a82d-76d536e3d67b",
     "gambler_id":"6335df3f-8d4a-4e80-82ac-ab77f15e003a",
     "type":"BET_LOSS",
-    "amount":100,
-    "balance_after":900,
+    "amount":100.0,
+    "balance_after":900.0,
     "bet_id":null,
     "timestamp":1777027686822
   },
@@ -102,8 +102,8 @@
     "transaction_id":"829e370b-14d5-4b22-bc3b-b54e364b92dd",
     "gambler_id":"6335df3f-8d4a-4e80-82ac-ab77f15e003a",
     "type":"BET_LOSS",
-    "amount":50,
-    "balance_after":850,
+    "amount":50.0,
+    "balance_after":850.0,
     "bet_id":null,
     "timestamp":1777027686864
   },
@@ -111,8 +111,8 @@
     "transaction_id":"2a2566e6-3e82-41a6-9732-c9f91003f82f",
     "gambler_id":"6335df3f-8d4a-4e80-82ac-ab77f15e003a",
     "type":"BET_LOSS",
-    "amount":100,
-    "balance_after":750,
+    "amount":100.0,
+    "balance_after":750.0,
     "bet_id":null,
     "timestamp":1777027686911
   },
@@ -120,8 +120,8 @@
     "transaction_id":"888144ad-e416-4b43-95bf-04c1c88df89e",
     "gambler_id":"6335df3f-8d4a-4e80-82ac-ab77f15e003a",
     "type":"BET_WIN",
-    "amount":400,
-    "balance_after":1150,
+    "amount":400.0,
+    "balance_after":1150.0,
     "bet_id":null,
     "timestamp":1777027686949
   },
@@ -129,8 +129,8 @@
     "transaction_id":"5c83f5ae-0c39-491b-84a2-ef35517fbcce",
     "gambler_id":"6335df3f-8d4a-4e80-82ac-ab77f15e003a",
     "type":"BET_LOSS",
-    "amount":50,
-    "balance_after":1100,
+    "amount":50.0,
+    "balance_after":1100.0,
     "bet_id":null,
     "timestamp":1777027686994
   },
@@ -138,9 +138,90 @@
     "transaction_id":"a6b8e6c1-6621-469d-9271-4e6170236514",
     "gambler_id":"6335df3f-8d4a-4e80-82ac-ab77f15e003a",
     "type":"BET_LOSS",
-    "amount":100,
-    "balance_after":1000,
+    "amount":100.0,
+    "balance_after":1000.0,
     "bet_id":null,
-    "timestamp":"2026-04-24T10:48:07.042942"
+    "timestamp":1777027687042
+  },
+  {
+    "transaction_id":"95f2e0d2-cfb9-4539-a7f2-cc01b32718fc",
+    "gambler_id":"5848c09e-4c1e-4da8-b35c-a0a5a00a4913",
+    "type":"INITIAL_STAKE",
+    "amount":1000.0,
+    "balance_after":1000.0,
+    "bet_id":null,
+    "timestamp":1777028124036
+  },
+  {
+    "transaction_id":"5dc3f5dd-6992-4434-baf6-1f9170992070",
+    "gambler_id":"31122a04-7918-4470-ac0d-a752782984cd",
+    "type":"INITIAL_STAKE",
+    "amount":1000.0,
+    "balance_after":1000.0,
+    "bet_id":null,
+    "timestamp":1777028198349
+  },
+  {
+    "transaction_id":"e0e2f861-fb59-43fb-80cd-9e66143ddd96",
+    "gambler_id":"e870ee44-3fc9-47f5-aae7-08ee3624fbf2",
+    "type":"INITIAL_STAKE",
+    "amount":1000.0,
+    "balance_after":1000.0,
+    "bet_id":null,
+    "timestamp":1777028206306
+  },
+  {
+    "transaction_id":"9fa464c1-3ff0-4da5-948f-dc3e97f95bcb",
+    "gambler_id":"6599d26c-2a12-4dbc-bd0f-25971ed41931",
+    "type":"INITIAL_STAKE",
+    "amount":1000.0,
+    "balance_after":1000.0,
+    "bet_id":null,
+    "timestamp":1777028439448
+  },
+  {
+    "transaction_id":"44c7563b-705c-4df5-87a7-74abc725d8e3",
+    "gambler_id":"6599d26c-2a12-4dbc-bd0f-25971ed41931",
+    "type":"BET_LOSS",
+    "amount":50.0,
+    "balance_after":950.0,
+    "bet_id":null,
+    "timestamp":1777028439498
+  },
+  {
+    "transaction_id":"02166685-a6da-4577-adff-f7bdef8c9ffe",
+    "gambler_id":"6599d26c-2a12-4dbc-bd0f-25971ed41931",
+    "type":"BET_WIN",
+    "amount":100.0,
+    "balance_after":1050.0,
+    "bet_id":null,
+    "timestamp":1777028439535
+  },
+  {
+    "transaction_id":"88cbf315-0352-418e-a707-ad627d3029f0",
+    "gambler_id":"6599d26c-2a12-4dbc-bd0f-25971ed41931",
+    "type":"BET_WIN",
+    "amount":100.0,
+    "balance_after":1150.0,
+    "bet_id":null,
+    "timestamp":1777028439576
+  },
+  {
+    "transaction_id":"4243d5cb-755e-418f-a622-78c791a7b079",
+    "gambler_id":"6599d26c-2a12-4dbc-bd0f-25971ed41931",
+    "type":"BET_LOSS",
+    "amount":50.0,
+    "balance_after":1100.0,
+    "bet_id":null,
+    "timestamp":1777028439614
+  },
+  {
+    "transaction_id":"823b7721-5003-41c3-8b70-63e7453c30bf",
+    "gambler_id":"6599d26c-2a12-4dbc-bd0f-25971ed41931",
+    "type":"BET_WIN",
+    "amount":100.0,
+    "balance_after":1200.0,
+    "bet_id":null,
+    "timestamp":"2026-04-24T11:00:39.655183"
   }
 ]
