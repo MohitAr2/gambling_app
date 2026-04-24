@@ -57,7 +57,7 @@
     "result":"loss",
     "stake_before":1000,
     "stake_after":950.0,
-    "timestamp":"2026-04-24T11:18:03.811584"
+    "timestamp":1777029483811
   },
   {
     "game_id":"2fc1853f-c091-4e91-9405-a6af974644c4",
@@ -67,7 +67,7 @@
     "result":"loss",
     "stake_before":950,
     "stake_after":900.0,
-    "timestamp":"2026-04-24T11:18:03.837497"
+    "timestamp":1777029483837
   },
   {
     "game_id":"c97f0109-dba4-447c-b61e-77a6f4c282b6",
@@ -77,7 +77,7 @@
     "result":"win",
     "stake_before":900,
     "stake_after":1000.0,
-    "timestamp":"2026-04-24T11:18:03.863821"
+    "timestamp":1777029483863
   },
   {
     "game_id":"0292b12d-8418-4ba4-ba04-0810352feb5d",
@@ -87,7 +87,7 @@
     "result":"win",
     "stake_before":1000,
     "stake_after":1100.0,
-    "timestamp":"2026-04-24T11:18:03.893060"
+    "timestamp":1777029483893
   },
   {
     "game_id":"ad2dce19-9e3d-4c7f-9448-6e8706df2615",
@@ -97,6 +97,36 @@
     "result":"loss",
     "stake_before":1100,
     "stake_after":1050.0,
-    "timestamp":"2026-04-24T11:18:03.922488"
+    "timestamp":1777029483922
+  },
+  {
+    "game_id":"6f11453e-7cde-4901-a7ed-da274041cece",
+    "session_id":"ded3fb38-351f-4ee1-a1be-9af09825b54b",
+    "bet_id":"039c0dae-9c81-40e4-b248-e59c03d6d537",
+    "amount":10,
+    "result":"loss",
+    "stake_before":500,
+    "stake_after":490.0,
+    "timestamp":"2026-04-24T11:37:23.244237"
+  },
+  {
+    "game_id":"79b63c30-52f9-45a0-a16d-2e10911cb651",
+    "session_id":"ded3fb38-351f-4ee1-a1be-9af09825b54b",
+    "bet_id":"9e87340a-76f1-4d0c-b836-677f488996d4",
+    "amount":10,
+    "result":"loss",
+    "stake_before":490,
+    "stake_after":480.0,
+    "timestamp":"2026-04-24T11:37:23.272136"
+  },
+  {
+    "game_id":"5ba60945-8cfb-41f4-8b73-c784f7caf4ef",
+    "session_id":"ded3fb38-351f-4ee1-a1be-9af09825b54b",
+    "bet_id":"1737f793-94da-474c-b745-1089b6155545",
+    "amount":10,
+    "result":"win",
+    "stake_before":480,
+    "stake_after":500.0,
+    "timestamp":"2026-04-24T11:37:23.298292"
   }
 ]

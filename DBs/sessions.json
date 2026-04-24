@@ -126,7 +126,26 @@
       "max_duration":3600,
       "default_probability":0.5
     },
-    "start_time":"2026-04-24T11:18:03.770206",
+    "start_time":1777029483770,
+    "end_time":null,
+    "games_played":0,
+    "pause_time":0,
+    "end_reason":null
+  },
+  {
+    "session_id":"ded3fb38-351f-4ee1-a1be-9af09825b54b",
+    "gambler_id":"25528c4d-0fc6-4ec2-b393-e908ed1eaecd",
+    "status":"ACTIVE",
+    "params":{
+      "win_limit":2000,
+      "loss_limit":200,
+      "min_bet":10,
+      "max_bet":500,
+      "max_games":20,
+      "max_duration":3600,
+      "default_probability":0.5
+    },
+    "start_time":"2026-04-24T11:37:13.163221",
     "end_time":null,
     "games_played":0,
     "pause_time":0,
